@@ -1,0 +1,1 @@
+# stgen_resource
